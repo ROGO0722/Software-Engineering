@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-20T06:40:18" hostname="heochang-us-MacBook-Air.local" time="0.008">
+  <properties/>
+  <testcase name="test1" classname="jrails.ModelTest" time="0.008"/>
+  <system-out><![CDATA[got obejct from map 1
+added: 1,   books.Book,   Programming Languages: Build, Prove, and Compare,   Norman Ramsey,   999
+
+got obejct from map 1
+added: 1,   books.Book,   Programming Languages: Build, Prove, and Compare,   Norman Ramsey,   999
+got obejct from map 2
+added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+
+got obejct from map 1
+added: 1,   books.Book,   Programming Languages: Computation Theory,   Norman Ramsey,   999
+got obejct from map 2
+added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+
+got obejct from map 1
+added: 1,   books.Book,   Programming Languages: Computation Theory,   Norman Ramsey,   999
+got obejct from map 2
+added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+got obejct from map 3
+Exception occurred: Cannot invoke "Object.toString()" because "o" is null
+got obejct from map 1
+added: 1,   books.Book,   Programming Languages: Computation Theory,   Norman Ramsey,   999
+got obejct from map 2
+added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+got obejct from map 3
+added: 3,   books.Book,   Arsenal FC,   Arsene Wenger,   2004
+
+got obejct from map 2
+added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+got obejct from map 3
+added: 3,   books.Book,   Arsenal FC,   Arsene Wenger,   2004
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

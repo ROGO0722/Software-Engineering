@@ -1,0 +1,31 @@
+	got obejct from map 1
+	cadded: 1,   books.Book,   Programming Languages: Build, Prove, and Compare,   Norman Ramsey,   999
+	
+	got obejct from map 1
+	cadded: 1,   books.Book,   Programming Languages: Build, Prove, and Compare,   Norman Ramsey,   999
+	got obejct from map 2
+	=added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+	
+	got obejct from map 1
+	\added: 1,   books.Book,   Programming Languages: Computation Theory,   Norman Ramsey,   999
+	got obejct from map 2
+	=added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+	
+	got obejct from map 1
+	\added: 1,   books.Book,   Programming Languages: Computation Theory,   Norman Ramsey,   999
+	got obejct from map 2
+	=added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+	got obejct from map 3
+	JException occurred: Cannot invoke "Object.toString()" because "o" is null
+	got obejct from map 1
+	\added: 1,   books.Book,   Programming Languages: Computation Theory,   Norman Ramsey,   999
+	got obejct from map 2
+	=added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+	got obejct from map 3
+	>added: 3,   books.Book,   Arsenal FC,   Arsene Wenger,   2004
+	
+	got obejct from map 2
+	=added: 2,   books.Book,   Harry Potter,   Roberto Heo,   250
+	got obejct from map 3
+	>added: 3,   books.Book,   Arsenal FC,   Arsene Wenger,   2004
+	
